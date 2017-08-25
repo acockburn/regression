@@ -9,6 +9,7 @@ from threading import Thread
 from time import sleep
 import signal
 
+
 def log(level, message):
     print(level, message)
 
